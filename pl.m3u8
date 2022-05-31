@@ -452,7 +452,7 @@ http://mfe.svc.ott.zala.by/hls/CH_GRODNO_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Региoнальные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Лида
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mfe.svc.ott.zala.by/hls/CH_LIDA_HLS/variant.m3u8?version=2
-#EXTINF:-1,Нирэя
+#EXTINF:-1 group-title="Региoнальные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Нирэя
 https://hlss.goodgame.ru/hls/165177.m3u8
 #EXTINF:-1 group-title="Региoнальные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Интекс Барановичи
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
