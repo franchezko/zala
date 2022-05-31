@@ -1,8 +1,5 @@
-
-<!-- saved from url=(0054)http://www.denms.ru/p/?zala-f-gt&franchezko&Lbvsxxxx12 -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",-zalafull 12.12 18:49 каналов 166 denms.ru
-https://download.ru/previews/72/ea/1ce633f34e2cfb22f6c450650d35ded113d2/CkNBSUOs/iptvin.ru_3.mp4
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",-zalafull 08.03 23:49 channels 164 denms.ru https://download.ru/previews/72/ea/1ce633f34e2cfb22f6c450650d35ded113d2/CkNBSUOs/iptvin.ru_3.mp4
 #EXTINF:-1 group-title="Эфирные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Беларусь 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8?version=2
@@ -36,8 +33,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Союз
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://178.124.183.5/hls/CH_SOYUZ_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино и сериалыи сериалы" tvg-logo="http://epg.auratv.fun/picon/slonka.png",SKY HIGH BY SLONKA HD
-http://slonka.auratv.fun:1010/channel/n69adc131/index.m3u8?q=eee3825972567216b78c1a9f2a809e9d
 #EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}" aspect-ratio=16:9,ТВ3-Беларусь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/KLQQ9ECGSQ_HLS/variant.m3u8?version=2
@@ -68,9 +63,6 @@ https://mfe.svc.ott.zala.by/hls/FEDXG8XPOR_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Индийское кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/CH_INDIYATV_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Наше новое кино
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mfe.svc.ott.zala.by/hls/UVPWPN2KTN_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Кинохит
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/HDOHSSZQCP_HLS/variant.m3u8?version=2
@@ -89,7 +81,7 @@ https://mfe.svc.ott.zala.by/hls/CH_CINEMA_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",НТВ Сериал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/CH_NTVSERIAL_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Пятый канал
+#EXTINF:-1 group-title="V" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Пятый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/CH_5INTERNAT_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Дорама
@@ -107,12 +99,6 @@ http://mfe.svc.ott.zala.by/hls/CH_KINOCOMED_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",TV21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mfe.svc.ott.zala.by/hls/CH_TV21_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Советское кино
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mfe.svc.ott.zala.by/hls/CH_SOVKINO_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",DocuBox HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mfe.svc.ott.zala.by/hls/CH_DOCUBOX_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Дом кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mfe.svc.ott.zala.by/hls/CH_DOMKINO_HLS/variant.m3u8?version=2
@@ -146,6 +132,24 @@ https://mfe.svc.ott.zala.by/hls/VPRSUR2WN2_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Sony Turbo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/CH_SONYTURBO_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Paramount Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mfe.svc.ott.zala.by/hls/CH_PARAMOUNT_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Paramount Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mfe.svc.ott.zala.by/hls/CH_PARACOMEDY_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Zee-TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mfe.svc.ott.zala.by/hls/CH_ZEE_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Киносвидание
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mfe.svc.ott.zala.by/hls/CH_KINOSVIDANIE_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Киносерия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mfe.svc.ott.zala.by/hls/CH_KINOSERIA_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино и сериалыи сериалы" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Муви ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mfe.svc.ott.zala.by/hls/CH_MUVI_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",National Geographic
 https://mfe.svc.ott.zala.by/hls/CH_NATGEO_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Наука 2.0
@@ -187,9 +191,6 @@ https://mfe.svc.ott.zala.by/hls/EWEXU8FWAZ_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Galaxy TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/CH_GALAXY_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Здоровое ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://178.124.183.5/hls/CH_ZDOROVOETV_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Кухня ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/EPX2UEHLPK_HLS/variant.m3u8?version=2
@@ -199,9 +200,6 @@ https://mfe.svc.ott.zala.by/hls/ESCMSBZJ8X_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",НТВ Право
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/CH_NTVPRAVO_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Ностальгия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mfe.svc.ott.zala.by/hls/SWPQU2UFKD_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Глазами туриста
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mfe.svc.ott.zala.by/hls/CH_GLAZTUR_HLS/variant.m3u8?version=2
@@ -256,24 +254,36 @@ http://mfe.svc.ott.zala.by/hls/CH_DTXHD_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Наша тема
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/CH_NASHATEMA_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Авто 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mfe.svc.ott.zala.by/hls/CH_AVTO24_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Nano HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/CH_NANOHD_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Поехали!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mfe.svc.ott.zala.by/hls/CH_POEHALY_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Телекафе
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mfe.svc.ott.zala.by/hls/CH_TELEKAFE_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",365 дней ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mfe.svc.ott.zala.by/hls/CH_365DNEY_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Epoque
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mfe.svc.ott.zala.by/hls/CH_EPOHA_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Luxury HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mfe.svc.ott.zala.by/hls/CH_LUXURYHD_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Бобер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mfe.svc.ott.zala.by/hls/CH_BOBER_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Дикий
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mfe.svc.ott.zala.by/hls/CH_DIKIY_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",ТНТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/MVNP5DA4U9_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Телемагазин
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mfe.svc.ott.zala.by/hls/CH_TELEMAGAZIN_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Сарафан
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/Y9GP8UFTZO_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",КВН ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://mfe.svc.ott.zala.by/hls/CH_KVN_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Перец
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mfe.svc.ott.zala.by/hls/CH_PEREZ_HLS/variant.m3u8?version=2
@@ -292,9 +302,6 @@ https://mfe.svc.ott.zala.by/hls/CH_ANEKDOT_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Luxury HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/CH_LUXURYHD_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Музыкальныельные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}" aspect-ratio=16:9,Первый музыкальный
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://rtmp.one.by:1200
 #EXTINF:-1 group-title="Музыкальныельные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",БелМуз ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mfe.svc.ott.zala.by/hls/CH_BELMUZ_HLS/variant.m3u8?version=2
@@ -316,7 +323,10 @@ https://mfe.svc.ott.zala.by/hls/DXBSFZDTDG_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Музыкальныельные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Live Music Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mfe.svc.ott.zala.by/hls/CH_LMC_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Информационные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",БелБизнесЧенел
+#EXTINF:-1 group-title="Музыкальныельные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",AIVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mfe.svc.ott.zala.by/hls/CH_AIVA_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Музыкальныельные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",БелБизнесЧенел
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/MCEQ4XBTHP_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Информационные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",БелРос
@@ -340,12 +350,6 @@ http://mfe.svc.ott.zala.by/hls/CH_EUROSPORT1_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Спорт" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Eurosport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mfe.svc.ott.zala.by/hls/CH_EUROSPORT2_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Спорт" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Fast&amp;Fun Box
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mfe.svc.ott.zala.by/hls/CH_FASTNFUNBOX_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Спорт" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",FightBox
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mfe.svc.ott.zala.by/hls/CH_FIGНТВOX_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Спорт" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Матч! Планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/CH_MATCHPLANETA_HLS/variant.m3u8?version=2
@@ -358,18 +362,18 @@ https://mfe.svc.ott.zala.by/hls/CH_FOOTBALL_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Спорт" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",КХЛ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/36H3IDE2WF_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Спорт" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",UFC ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mfe.svc.ott.zala.by/hls/CH_UFC_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Спорт" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Extreme sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/CH_EXTREMES_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Спорт" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Russian Extreme
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/CH_RUSEXTREME_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Спорт" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Viasat Sport
+#EXTINF:-1 group-title="Спорт" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Живи
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mfe.svc.ott.zala.by/hls/CH_VIASPORT_HLS/variant.m3u8?version=2
+https://mfe.svc.ott.zala.by/hls/CH_JIVI_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Спорт" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",KHL Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mfe.svc.ott.zala.by/hls/CH_KHLPRIME_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Детские" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Детский мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/9F67L3DGIF_HLS/variant.m3u8?version=2
@@ -406,21 +410,12 @@ http://mfe.svc.ott.zala.by/hls/CH_NICK_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Детские" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Nick Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mfe.svc.ott.zala.by/hls/CH_NICKJR_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Детские" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Смайлик ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8?version=2
 #EXTINF:-1 group-title="Детские" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Карусель Int
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/CH_KARUSEL_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Детские" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Nickelodeon HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mfe.svc.ott.zala.by/hls/CH_NICKHD_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Детские" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",JimJam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mfe.svc.ott.zala.by/hls/CH_JIMJAM_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Детские" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Da Vinci
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mfe.svc.ott.zala.by/hls/CH_DAVINCHI_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Для взрослых" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Blue Hustler
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mfe.svc.ott.zala.by/hls/CH_BLUEHUSTLER_HLS/variant.m3u8?version=2
@@ -430,21 +425,18 @@ http://mfe.svc.ott.zala.by/hls/CH_PENTHOUSE_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Для взрослых" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Barely Legal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mfe.svc.ott.zala.by/hls/CH_BARELYLEGAL_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Для взрослых" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Erox
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mfe.svc.ott.zala.by/hls/CH_EROX_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Для взрослых" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Русская ночь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mfe.svc.ott.zala.by/hls/CH_RUSSKAYANOCH_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Для взрослых" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Candy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mfe.svc.ott.zala.by/hls/CH_CANDY_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Региoнальные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Вектор ТВ Новополоцк
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mfe.svc.ott.zala.by/hls/CH_VECTOR_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Региoнальные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Витебск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mfe.svc.ott.zala.by/hls/CH_TVT_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Региoнальные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Наше ТВ Витебск
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://95.46.208.8:26259/nashe
 #EXTINF:-1 group-title="Региoнальные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Лагуна ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mfe.svc.ott.zala.by/hls/CH_LAGUNA_HLS/variant.m3u8?version=2
@@ -460,7 +452,7 @@ http://mfe.svc.ott.zala.by/hls/CH_GRODNO_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Региoнальные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Лида
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mfe.svc.ott.zala.by/hls/CH_LIDA_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Региoнальные",Нирэя
+#EXTINF:-1,Нирэя
 https://hlss.goodgame.ru/hls/165177.m3u8
 #EXTINF:-1 group-title="Региoнальные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Интекс Барановичи
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -497,5 +489,4 @@ https://mfe.svc.ott.zala.by/hls/CH_BELARUS4GR_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/CH_BELARUS4MOG_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Региoнальные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}",Беларусь 4 Витебск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mfe.svc.ott.zala.by/hls/CH_BELARUS4VIT_HLS/variant.m3u8?version=2
-<script type="module" src="chrome-extension://hggcnhagmhclapbcohbflheahnjljpeg/scripts/main.js"></script></body></html>
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS4VIT_HLS/variant.m3u8?version=2 
