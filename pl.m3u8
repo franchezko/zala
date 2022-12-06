@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",-zalaf-spn 12.11 22:10 channels 167 iptvin.ru
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",-zalaf-spn 04.12 22:18 channels 169 iptvin.ru
 http://sh3304149.c.had.su/iptvin.ru.mp4
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/belarus1.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Эфирные",Беларусь 1
 https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8?version=2
@@ -94,7 +94,7 @@ https://mfe.svc.ott.zala.by/hls/CH_TELEKAFE_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/usadba.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные",Усадьба
 https://mfe.svc.ott.zala.by/hls/XMC4NSRVN9_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://picon.ml/euronews.png" group-title="Информационные",Euronews
-http://77.72.22.42:8080/9215/index.m3u8
+http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/belros.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Информационные",БелРос
 https://mfe.svc.ott.zala.by/hls/CH_TRO_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://picon.ml/belsat.png" group-title="Информационные",Белсат
@@ -143,10 +143,6 @@ https://mfe.svc.ott.zala.by/hls/CH_AIVA_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/BHH8EKRXPO_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/live-music-channel.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Музыкальные",Live Music Channel HD
 https://mfe.svc.ott.zala.by/hls/CH_LMC_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/mezzo.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Музыкальные",Mezzo
-https://mfe.svc.ott.zala.by/hls/CH_MEZZO_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/mezzo-live-hd.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Музыкальные",Mezzo Live HD
-https://mfe.svc.ott.zala.by/hls/CH_MEZZOLIVE_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/ru-tv.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Музыкальные",RU.TV
 https://mfe.svc.ott.zala.by/hls/XW6AGFSZJ8_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/belmuztv.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Музыкальные",БелМуз ТВ
@@ -165,6 +161,8 @@ https://mfe.svc.ott.zala.by/hls/CH_EUROSPORT2_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/CH_EXTREMES_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/m1global.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спортивные",M-1 Global
 https://mfe.svc.ott.zala.by/hls/CH_M1_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/viasat-sport.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спортивные",Viasat Sport
+http://mfe.svc.ott.zala.by/hls/CH_VIASPORT_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/belarus5.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спортивные",Беларусь 5
 https://mfe.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://picon.ml/belarus5-inet.png" group-title="Спортивные",Беларусь 5 Интернет
@@ -213,6 +211,14 @@ https://mfe.svc.ott.zala.by/hls/9X9NUEEKGW_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/PWIKICZUYF_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/tvxxi.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",TV21
 https://mfe.svc.ott.zala.by/hls/CH_TV21_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/vip-comedy.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",VIP Comedy
+https://mfe.svc.ott.zala.by/hls/CH_TV1000COMEDY_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/vip-megahit.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",VIP Megahit
+https://mfe.svc.ott.zala.by/hls/CH_TV1000MEGAHIT_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/vip-premiere.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",VIP Premiere
+https://mfe.svc.ott.zala.by/hls/CH_TV1000PREMIUM_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/vip-serial.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",VIP Serial
+https://mfe.svc.ott.zala.by/hls/CH_VIPSERIAL_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/zee-tv.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Zee-TV
 https://mfe.svc.ott.zala.by/hls/CH_ZEE_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/domkino.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Дом кино
@@ -321,8 +327,6 @@ https://mfe.svc.ott.zala.by/hls/CH_LIDA_HLS/variant.m3u8?version=2
 https://hlss.goodgame.ru/hls/165177.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/pervy-gorodskoy-gom.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные",Первый Городской (Гомель)
 https://mfe.svc.ott.zala.by/hls/CH_GOMEL_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Региoнальные",Пинск тв
-https://mfe.svc.ott.zala.by/hls/CH_PINSK_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="http://tvpinsk.by/images/logo-pinsk-min.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные",Пинск тв
 https://mfe.svc.ott.zala.by/hls/CH_PINSK_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://cdn.teleon.tv/logo/skif-tv-transparent.png" group-title="Региoнальные",Скиф ТВ
