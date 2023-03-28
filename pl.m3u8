@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",-zalaf-spn 03.03 15:30 channels 167 iptvin.ru
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",-zalaf-spn 15.03 19:53 channels 166 iptvin.ru
 http://sh3304149.c.had.su/iptvin.ru.mp4
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/belarus1.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Эфирные",Беларусь 1
 https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8?version=2
@@ -55,8 +55,6 @@ https://mfe.svc.ott.zala.by/hls/CH_BOBER_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/CH_VREMYA_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/glazami-turista.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные",Глазами туриста
 https://mfe.svc.ott.zala.by/hls/CH_GLAZTUR_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/dialogi-o-rybalke.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные",Диалоги о Рыбалке
-https://mfe.svc.ott.zala.by/hls/CH_FISHDYALOG_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/domashny-int.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные",Домашний Int
 https://mfe.svc.ott.zala.by/hls/CH_DOMINT_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/drive.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные",Драйв
@@ -109,8 +107,6 @@ http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 https://mfe.svc.ott.zala.by/hls/CH_MIR24HD_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/2x2-pl2.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Детские",2x2
 https://mfe.svc.ott.zala.by/hls/EU9VTLDQCN_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/ducktv.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Детские",Duck TV
-https://mfe.svc.ott.zala.by/hls/CH_DUCKTV_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/gulli-girl.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Детские",Gulli Girl
 https://mfe.svc.ott.zala.by/hls/7FFGONY2N8_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/tiji.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Детские",Tiji
@@ -155,9 +151,9 @@ https://mfe.svc.ott.zala.by/hls/DXBSFZDTDG_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/BCJGRB3KAX_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/shanson-tv.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Музыкальные",Шансон-TB
 https://mfe.svc.ott.zala.by/hls/3K2MEWVSDF_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/eurosport1-cee.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спортивные",Eurosport 1
+#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/eurosport1.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спортивные",Eurosport 1
 https://mfe.svc.ott.zala.by/hls/CH_EUROSPORT1_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/eurosport2-cee.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спортивные",Eurosport 2
+#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/eurosport2.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спортивные",Eurosport 2
 https://mfe.svc.ott.zala.by/hls/CH_EUROSPORT2_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/extreme-sports.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спортивные",Extreme sports
 https://mfe.svc.ott.zala.by/hls/CH_EXTREMES_HLS/variant.m3u8?version=2
@@ -187,6 +183,8 @@ https://mfe.svc.ott.zala.by/hls/CH_AMEDIAHIT_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/CH_AMEDIA_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/cinema.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Cinema
 https://mfe.svc.ott.zala.by/hls/CH_CINEMA_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/dorama.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Dorama
+https://mfe.svc.ott.zala.by/hls/CH_DORAMA_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/filmua-drama.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Film.Ua Drama
 https://mfe.svc.ott.zala.by/hls/CH_FILMUADRAMA_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/hollywood.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Кино и сериалы",Hollywood
