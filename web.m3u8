@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",-zala-spn 05.04 01:35 channels 88 iptvin.ru
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",-zala-spn 18.04 12:14 channels 86 iptvin.ru
 http://sh3304149.c.had.su/iptvin.ru.mp4
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/belarus1.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Эфирные",Беларусь 1
 https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8?version=2
@@ -83,8 +83,6 @@ https://mfe.svc.ott.zala.by/hls/7FFGONY2N8_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/Q0HVVEIKSQ_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/detsky-mir.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Детские",Детский мир
 https://mfe.svc.ott.zala.by/hls/9F67L3DGIF_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/capfantast.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Детские",Капитан Фантастика
-https://mfe.svc.ott.zala.by/hls/CH_GINGER_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/mult.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Детские",Мульт
 https://mfe.svc.ott.zala.by/hls/5MWF7XUWZI_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/multimania.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Детские",Мультиландия
@@ -95,14 +93,16 @@ https://mfe.svc.ott.zala.by/hls/CH_RYZHIY_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/CH_SOVMULT_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/sts-kids-hd.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Детские",СТС Kids
 https://mfe.svc.ott.zala.by/hls/CH_CTCKIDS_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/mcm-top.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Музыкальные",MCM Top
-https://mfe.svc.ott.zala.by/hls/CH_MCMTOP_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/tnt-music.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Музыкальные",ТНТ Music
 https://mfe.svc.ott.zala.by/hls/BCJGRB3KAX_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/shanson-tv.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Музыкальные",Шансон-TB
 https://mfe.svc.ott.zala.by/hls/3K2MEWVSDF_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/extreme-sports.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Extreme sports
 https://mfe.svc.ott.zala.by/hls/CH_EXTREMES_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/fastfunbox-hd.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Fast&FunBox
+https://mfe.svc.ott.zala.by/hls/CH_FASTNFUNBOX_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/fightbox-hd.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",FightBox
+https://mfe.svc.ott.zala.by/hls/CH_FIGHTBOX_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/belarus5.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Беларусь 5
 https://mfe.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://picon.ml/belarus5-inet.png" group-title="Спортивные",Беларусь 5 Интернет
@@ -113,10 +113,6 @@ https://mfe.svc.ott.zala.by/hls/CH_MIRBASKET_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/CH_FOOTBALL_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/dorama.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Кино и сериалы",Dorama
 https://mfe.svc.ott.zala.by/hls/CH_DORAMA_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/hollywood.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Кино и сериалы",Hollywood
-https://mfe.svc.ott.zala.by/hls/CH_HOLLYWOOD_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/hollywood-hd.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Кино и сериалы",Hollywood HD
-https://mfe.svc.ott.zala.by/hls/CH_HOLLYWOODHD_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/trashtv.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Кино и сериалы",Trash
 https://mfe.svc.ott.zala.by/hls/CH_TRASH_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://picon.ml/indijskoe-kino.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Кино и сериалы",Индийское кино
