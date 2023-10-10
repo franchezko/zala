@@ -1,1 +1,328 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",-voka-spn 01.10 02:22 channels 162 iptvin.ru
+http://overlay.iptvin.site/iptvin.ru.mp4
+#EXTINF:-1 tvg-id="belarus1" catchup="append" tvg-logo="https://picon.pp.ua/belarus1hd.png" tvg-name="Беларусь 1" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Эфирные",Беларусь 1 Брест
+http://cdn-cache01.voka.tv/live/10004.m3u8
+#EXTINF:-1 tvg-id="belarus1" catchup="append" tvg-logo="https://picon.pp.ua/belarus1hd.png" tvg-name="Беларусь 1" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Эфирные",Беларусь 1 Витебск
+http://cdn-cache01.voka.tv/live/10002.m3u8
+#EXTINF:-1 tvg-id="belarus1" catchup="append" tvg-logo="https://picon.pp.ua/belarus1hd.png" tvg-name="Беларусь 1" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Эфирные",Беларусь 1 Гомель
+http://cdn-cache01.voka.tv/live/10003.m3u8
+#EXTINF:-1 tvg-id="belarus1" catchup="append" tvg-logo="https://picon.pp.ua/belarus1hd.png" tvg-name="Беларусь 1" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Эфирные",Беларусь 1 Минск
+http://cdn-cache01.voka.tv/live/10001.m3u8
+#EXTINF:-1 tvg-id="belarus1" catchup="append" tvg-logo="https://picon.pp.ua/belarus1hd.png" tvg-name="Беларусь 1" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Эфирные",Беларусь 1 Могилёв
+http://cdn-cache01.voka.tv/live/10005.m3u8
+#EXTINF:-1 tvg-id="belarus2" catchup="append" tvg-logo="https://picon.pp.ua/belarus2hd.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Эфирные",Беларусь 2
+http://cdn-cache01.voka.tv/live/693.m3u8
+#EXTINF:-1 tvg-id="belarus3" catchup="append" tvg-logo="https://picon.pp.ua/belarus3hd.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Эфирные",Беларусь 3
+http://cdn-cache01.voka.tv/live/8.m3u8
+#EXTINF:-1 tvg-id="mir" catchup="append" tvg-logo="https://picon.pp.ua/mir.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Эфирные",МИР
+http://cdn-cache01.voka.tv/live/754.m3u8
+#EXTINF:-1 tvg-id="ntv-belarus" catchup="append" tvg-logo="https://picon.pp.ua/ntv-belarus.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Эфирные",НТВ Беларусь
+http://cdn-cache01.voka.tv/live/6.m3u8
+#EXTINF:-1 tvg-id="ont-by" catchup="append" tvg-logo="https://picon.pp.ua/ont-by.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Эфирные",ОНТ
+http://cdn-cache01.voka.tv/live/849.m3u8
+#EXTINF:-1 tvg-id="rtr-belarus" catchup="append" tvg-logo="https://picon.pp.ua/rtr-belarus.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Эфирные",РТР-Беларусь
+http://cdn-cache01.voka.tv/live/5.m3u8
+#EXTINF:-1 tvg-id="stv-by" catchup="append" tvg-logo="https://picon.pp.ua/stv-by.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Эфирные",СТВ
+http://cdn-cache01.voka.tv/live/753.m3u8
+#EXTINF:-1 tvg-id="365-dnej" catchup="append" tvg-logo="https://picon.pp.ua/365-dnej.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",365 дней ТВ
+http://cdn-cache01.voka.tv/live/2111.m3u8
+#EXTINF:-1 tvg-id="animal-planet-eu" catchup="append" tvg-logo="https://picon.pp.ua/animal-planet-eu.png" catchup-days="3" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Animal planet
+http://cdn-cache01.voka.tv/live/3158.m3u8
+#EXTINF:-1 tvg-id="curiosity-stream" catchup="append" tvg-logo="https://picon.pp.ua/curiosity-stream.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Curiosity Stream
+http://cdn-cache01.voka.tv/live/994.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" catchup="append" tvg-logo="https://picon.pp.ua/discovery-channel.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Discovery
+http://cdn-cache01.voka.tv/live/5115.m3u8
+#EXTINF:-1 tvg-id="hd-life" catchup="append" tvg-logo="https://picon.pp.ua/hdl.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",HDL
+http://cdn-cache01.voka.tv/live/878.m3u8
+#EXTINF:-1 tvg-id="rtg-tv" catchup="append" tvg-logo="https://picon.pp.ua/rtg-tv.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",RTG
+http://cdn-cache01.voka.tv/live/131.m3u8
+#EXTINF:-1 tvg-id="rtg-hd" catchup="append" tvg-logo="https://picon.pp.ua/rtg-hd.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",RTG HD
+http://cdn-cache01.voka.tv/live/1406.m3u8
+#EXTINF:-1 tvg-id="travel-adventure" catchup="append" tvg-logo="https://picon.pp.ua/travel-adventure.png" catchup-days="3" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Travel+Adventure
+http://cdn-cache01.voka.tv/live/964.m3u8
+#EXTINF:-1 tvg-id="viasat-explore" catchup="append" tvg-logo="https://picon.pp.ua/viasat-explore.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Viju Explore
+http://cdn-cache01.voka.tv/live/540.m3u8
+#EXTINF:-1 tvg-id="viasat-history" catchup="append" tvg-logo="https://picon.pp.ua/viasat-history.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Viju History
+http://cdn-cache01.voka.tv/live/541.m3u8
+#EXTINF:-1 tvg-id="viasat-nature" catchup="append" tvg-logo="https://picon.pp.ua/viasat-nature.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Viju Nature
+http://cdn-cache01.voka.tv/live/542.m3u8
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" catchup="append" tvg-logo="https://picon.pp.ua/viasat-nature-history-hd.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Viju+ Planet
+http://cdn-cache01.voka.tv/live/6006.m3u8
+#EXTINF:-1 tvg-id="zoopark" catchup="append" tvg-logo="https://picon.pp.ua/zoopark.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",ZooПарк
+http://cdn-cache01.voka.tv/live/996.m3u8
+#EXTINF:-1 tvg-id="avto24" catchup="append" tvg-logo="https://picon.pp.ua/avto24.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Авто 24
+http://cdn-cache01.voka.tv/live/588.m3u8
+#EXTINF:-1 tvg-id="kto-est-kto" catchup="append" tvg-logo="https://picon.pp.ua/kto-est-kto.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Кто есть кто
+http://cdn-cache01.voka.tv/live/2079.m3u8
+#EXTINF:-1 tvg-id="moya-planeta" catchup="append" tvg-logo="https://picon.pp.ua/moya-planeta.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Моя Планета
+http://cdn-cache01.voka.tv/live/166.m3u8
+#EXTINF:-1 tvg-id="nano-tv" catchup="append" tvg-logo="https://picon.pp.ua/nano-tv.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Нано
+http://cdn-cache01.voka.tv/live/211.m3u8
+#EXTINF:-1 tvg-id="nauka-20" catchup="append" tvg-logo="https://picon.pp.ua/nauka-20.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Наука 2.0
+http://cdn-cache01.voka.tv/live/167.m3u8
+#EXTINF:-1 tvg-id="neizvestnaya-planeta" catchup="append" tvg-logo="https://picon.pp.ua/neizvestnaya-planeta.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Неизвестная планета
+http://cdn-cache01.voka.tv/live/3005.m3u8
+#EXTINF:-1 tvg-id="oxota-i-rybalka" catchup="append" tvg-logo="https://picon.pp.ua/oxota-i-rybalka.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Охота и рыбалка
+http://cdn-cache01.voka.tv/live/244.m3u8
+#EXTINF:-1 tvg-id="terra-inkognita" catchup="append" tvg-logo="https://picon.pp.ua/terra-inkognita.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Терра Инкогнита
+http://cdn-cache01.voka.tv/live/3017.m3u8
+#EXTINF:-1 tvg-id="texno-24" catchup="append" tvg-logo="https://picon.pp.ua/texno-24.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Техно 24
+http://cdn-cache01.voka.tv/live/129.m3u8
+#EXTINF:-1 tvg-id="usadba" catchup="append" tvg-logo="https://picon.pp.ua/usadba.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",Усадьба
+http://cdn-cache01.voka.tv/live/341.m3u8
+#EXTINF:-1 tvg-id="ntv-style" catchup="append" tvg-logo="https://picon.pp.ua/ntv-style.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Познавательные",НТВ Стиль
+http://cdn-cache01.voka.tv/live/175.m3u8
+#EXTINF:-1 tvg-id="gulli-girl" catchup="append" tvg-logo="https://picon.pp.ua/gulli-girl.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",Gulli girl
+http://cdn-cache01.voka.tv/live/237.m3u8
+#EXTINF:-1 tvg-id="tiji" catchup="append" tvg-logo="https://picon.pp.ua/tiji.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",TiJi
+http://cdn-cache01.voka.tv/live/243.m3u8
+#EXTINF:-1 tvg-id="v-gostiax-u-skazki" catchup="append" tvg-logo="https://picon.pp.ua/v-gostiax-u-skazki.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",В гостях у сказки
+http://cdn-cache01.voka.tv/live/1620.m3u8
+#EXTINF:-1 tvg-id="karusel" catchup="append" tvg-logo="https://picon.pp.ua/karusel.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",Карусель
+http://cdn-cache01.voka.tv/live/5123.m3u8
+#EXTINF:-1 tvg-id="liova" catchup="append" tvg-logo="https://picon.pp.ua/liova.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",Лёва
+http://cdn-cache01.voka.tv/live/2424.m3u8
+#EXTINF:-1 tvg-id="mult" catchup="append" tvg-logo="https://picon.pp.ua/mult.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",Мульт
+http://cdn-cache01.voka.tv/live/6007.m3u8
+#EXTINF:-1 tvg-id="multimania" catchup="append" tvg-logo="https://picon.pp.ua/multimania.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",Мультиландия
+http://cdn-cache01.voka.tv/live/5108.m3u8
+#EXTINF:-1 tvg-id="o_" catchup="append" tvg-logo="https://picon.pp.ua/o_.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",О!
+http://cdn-cache01.voka.tv/live/3013.m3u8
+#EXTINF:-1 tvg-id="skazki-zayki" catchup="append" tvg-logo="https://picon.pp.ua/skazki-zayki.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",Сказки зайки
+http://cdn-cache01.voka.tv/live/3016.m3u8
+#EXTINF:-1 tvg-id="smaylik-tv" catchup="append" tvg-logo="https://picon.pp.ua/smaylik-tv.png" catchup-days="5" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",Смайлик ТВ
+http://cdn-cache01.voka.tv/live/3010.m3u8
+#EXTINF:-1 tvg-id="sovmultf" catchup="append" tvg-logo="https://picon.pp.ua/sovmultf.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",Советские мультфильмы
+http://cdn-cache01.voka.tv/live/3007.m3u8
+#EXTINF:-1 tvg-id="sts-kids-hd" catchup="append" tvg-logo="https://picon.pp.ua/sts-kids-hd.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Детские",СТС kids
+http://cdn-cache01.voka.tv/live/1448.m3u8
+#EXTINF:-1 tvg-id="1hd" catchup="append" tvg-logo="https://picon.pp.ua/1hd-music.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыкальные",1HD
+http://cdn-cache01.voka.tv/live/6009.m3u8
+#EXTINF:-1 tvg-id="bridge-hd" catchup="append" tvg-logo="https://picon.pp.ua/bridge-hd.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыкальные",Bridge Deluxe
+http://cdn-cache01.voka.tv/live/110.m3u8
+#EXTINF:-1 tvg-id="live-music-channel" catchup="append" tvg-logo="https://picon.pp.ua/live-music-channel.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыкальные",Live Music Channel HD
+http://cdn-cache01.voka.tv/live/6028.m3u8
+#EXTINF:-1 tvg-id="mcm-top" catchup="append" tvg-logo="https://picon.pp.ua/mcm-top.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыкальные",MCM Top
+http://cdn-cache01.voka.tv/live/242.m3u8
+#EXTINF:-1 tvg-id="mezzo" catchup="append" tvg-logo="https://picon.pp.ua/mezzo.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыкальные",Mezzo
+http://cdn-cache01.voka.tv/live/240.m3u8
+#EXTINF:-1 tvg-id="mezzo-live-hd" catchup="append" tvg-logo="https://picon.pp.ua/mezzo-live-hd.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыкальные",Mezzo Live HD
+http://cdn-cache01.voka.tv/live/871.m3u8
+#EXTINF:-1 tvg-id="ru-tv" catchup="append" tvg-logo="https://picon.pp.ua/ru-tv.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыкальные",RU.TV
+http://cdn-cache01.voka.tv/live/972.m3u8
+#EXTINF:-1 tvg-id="belmuztv" catchup="append" tvg-logo="https://picon.pp.ua/belmuztv.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыкальные",БелМуз ТВ
+http://cdn-cache01.voka.tv/live/966.m3u8
+#EXTINF:-1 tvg-id="europa-plus-tv" catchup="append" tvg-logo="https://picon.pp.ua/europa-plus-tv.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыкальные",Европа Плюс ТВ
+http://cdn-cache01.voka.tv/live/963.m3u8
+#EXTINF:-1 tvg-id="zhara" catchup="append" tvg-logo="https://picon.pp.ua/zhara.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыкальные",Жара
+http://cdn-cache01.voka.tv/live/2120.m3u8
+#EXTINF:-1 tvg-id="la-minor" catchup="append" tvg-logo="https://picon.pp.ua/la-minor.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыкальные",Ля-минор
+http://cdn-cache01.voka.tv/live/2117.m3u8
+#EXTINF:-1 tvg-id="onemuz" catchup="append" tvg-logo="https://picon.pp.ua/1muz.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыкальные",Первый музыкальный
+http://cdn-cache01.voka.tv/live/869.m3u8
+#EXTINF:-1 tvg-id="tnt-music" catchup="append" tvg-logo="https://picon.pp.ua/tnt-music.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыкальные",ТНТ Music
+http://cdn-cache01.voka.tv/live/37.m3u8
+#EXTINF:-1 tvg-id="shanson-tv" catchup="append" tvg-logo="https://picon.pp.ua/shanson-tv.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Музыкальные",Шансон-TB
+http://cdn-cache01.voka.tv/live/235.m3u8
+#EXTINF:-1 tvg-id="eurosport1" catchup="append" tvg-logo="https://picon.pp.ua/eurosport1.png" catchup-days="3" catchup-source="?stream_start_offset=${offset}000000" group-title="Спортивные",Eurosport 1
+http://cdn-cache01.voka.tv/live/5102.m3u8
+#EXTINF:-1 tvg-id="extreme-sports" catchup="append" tvg-logo="https://picon.pp.ua/extreme-sports.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Спортивные",Extreme sports
+http://cdn-cache01.voka.tv/live/3009.m3u8
+#EXTINF:-1 tvg-id="kxl" catchup="append" tvg-logo="https://picon.pp.ua/kxl.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Спортивные",KHL
+http://cdn-cache01.voka.tv/live/100.m3u8
+#EXTINF:-1 tvg-id="kxl-hd" catchup="append" tvg-logo="https://picon.pp.ua/kxl-hd.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Спортивные",KHL prime
+http://cdn-cache01.voka.tv/live/2191.m3u8
+#EXTINF:-1 tvg-id="m1global" catchup="append" tvg-logo="https://picon.pp.ua/m1global.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Спортивные",M-1 Global
+http://cdn-cache01.voka.tv/live/2100.m3u8
+#EXTINF:-1 tvg-id="russian-extreme-uhd" catchup="append" tvg-logo="https://picon.pp.ua/russian-extreme-uhd.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Спортивные",Russian Extreme UHD
+http://cdn-cache01.voka.tv/live/1042.m3u8
+#EXTINF:-1 tvg-id="viasat-sport" catchup="append" tvg-logo="https://picon.pp.ua/viasat-sport.png" catchup-days="5" catchup-source="?stream_start_offset=${offset}000000" group-title="Спортивные",Viju+ Sport
+http://cdn-cache01.voka.tv/live/6005.m3u8
+#EXTINF:-1 tvg-id="avto-plus" catchup="append" tvg-logo="https://picon.pp.ua/avto-plus.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Спортивные",Авто плюс
+http://cdn-cache01.voka.tv/live/236.m3u8
+#EXTINF:-1 tvg-id="belarus5" catchup="append" tvg-logo="https://picon.pp.ua/belarus5hd.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Спортивные",Беларусь 5 HD
+http://cdn-cache01.voka.tv/live/9.m3u8
+#EXTINF:-1 tvg-id="box-tv" catchup="append" tvg-logo="https://picon.pp.ua/box-tv.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Спортивные",Бокс ТВ
+http://cdn-cache01.voka.tv/live/1446.m3u8
+#EXTINF:-1 tvg-id="match-planeta" catchup="append" tvg-logo="https://picon.pp.ua/match-planeta.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Спортивные",Матч! Планета
+http://cdn-cache01.voka.tv/live/506.m3u8
+#EXTINF:-1 tvg-id="russky-ekstrim" catchup="append" tvg-logo="https://picon.pp.ua/russky-ekstrim.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Спортивные",Русский экстрим
+http://cdn-cache01.voka.tv/live/186.m3u8
+#EXTINF:-1 tvg-id="ufc" catchup="append" tvg-logo="https://picon.pp.ua/ufc.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Спортивные",Удар
+http://cdn-cache01.voka.tv/live/993.m3u8
+#EXTINF:-1 tvg-id="sony-turbo" catchup="append" tvg-logo="https://picon.pp.ua/sony-turbo.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",.black
+http://cdn-cache01.voka.tv/live/3001.m3u8
+#EXTINF:-1 tvg-id="sony-tv" catchup="append" tvg-logo="https://picon.pp.ua/sony.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",.red
+http://cdn-cache01.voka.tv/live/1400.m3u8
+#EXTINF:-1 tvg-id="sony-scifi" catchup="append" tvg-logo="https://picon.pp.ua/sony-scifi.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",.sci-fi
+http://cdn-cache01.voka.tv/live/207.m3u8
+#EXTINF:-1 tvg-id="amedia-hit" catchup="append" tvg-logo="https://picon.pp.ua/amedia-hit.png" catchup-days="3" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Amedia Hit
+http://cdn-cache01.voka.tv/live/1662.m3u8
+#EXTINF:-1 tvg-id="amedia-premium" catchup="append" tvg-logo="https://picon.pp.ua/amedia-premium.png" catchup-days="3" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Amedia Premium
+http://cdn-cache01.voka.tv/live/511.m3u8
+#EXTINF:-1 tvg-id="cinema-ru" catchup="append" tvg-logo="https://picon.pp.ua/cinema.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Cinema
+http://cdn-cache01.voka.tv/live/2092.m3u8
+#EXTINF:-1 tvg-id="cinema" catchup="append" tvg-logo="https://picon.pp.ua/cosmostv.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Cinema Космос ТВ
+http://cdn-cache01.voka.tv/live/3870.m3u8
+#EXTINF:-1 tvg-id="hollywood" catchup="append" tvg-logo="https://picon.pp.ua/hollywood.png" catchup-days="3" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Hollywood
+http://cdn-cache01.voka.tv/live/5104.m3u8
+#EXTINF:-1 tvg-id="start-air" catchup="append" tvg-logo="https://picon.pp.ua/start-air.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Start Air
+http://cdn-cache01.voka.tv/live/1804.m3u8
+#EXTINF:-1 tvg-id="timeless-dizi" catchup="append" tvg-logo="https://picon.pp.ua/timeless-dizi.png" catchup-days="6" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Timeless Dizi Channel
+http://cdn-cache01.voka.tv/live/3011.m3u8
+#EXTINF:-1 tvg-id="tv1000" catchup="append" tvg-logo="https://picon.pp.ua/tv1000.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Viju TV1000
+http://cdn-cache01.voka.tv/live/5107.m3u8
+#EXTINF:-1 tvg-id="tv1000-action" catchup="append" tvg-logo="https://picon.pp.ua/tv1000-action.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Viju TV1000 Action
+http://cdn-cache01.voka.tv/live/5106.m3u8
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" catchup="append" tvg-logo="https://picon.pp.ua/tv1000-russkoe-kino.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Viju TV1000 Русское
+http://cdn-cache01.voka.tv/live/5109.m3u8
+#EXTINF:-1 tvg-id="vip-comedy" catchup="append" tvg-logo="https://picon.pp.ua/vip-comedy.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Viju+ Comedy
+http://cdn-cache01.voka.tv/live/6003.m3u8
+#EXTINF:-1 tvg-id="vip-megahit" catchup="append" tvg-logo="https://picon.pp.ua/vip-megahit.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Viju+ Megahit
+http://cdn-cache01.voka.tv/live/6002.m3u8
+#EXTINF:-1 tvg-id="vip-premiere" catchup="append" tvg-logo="https://picon.pp.ua/vip-premiere.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Viju+ Premiere
+http://cdn-cache01.voka.tv/live/6001.m3u8
+#EXTINF:-1 tvg-id="vip-serial" catchup="append" tvg-logo="https://picon.pp.ua/vip-serial.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Viju+ Serial
+http://cdn-cache01.voka.tv/live/6004.m3u8
+#EXTINF:-1 tvg-id="tvxxi" catchup="append" tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/tv-21_m.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",XXI
+http://cdn-cache01.voka.tv/live/2018.m3u8
+#EXTINF:-1 tvg-id="amedia1" catchup="append" tvg-logo="https://picon.pp.ua/amedia1.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",А1
+http://cdn-cache01.voka.tv/live/1500.m3u8
+#EXTINF:-1 tvg-id="amedia2" catchup="append" tvg-logo="https://picon.pp.ua/amedia2.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",А2
+http://cdn-cache01.voka.tv/live/171.m3u8
+#EXTINF:-1 tvg-id="belviasat-plustv" catchup="append" tvg-logo="https://picon.pp.ua/belviasat-plustv.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Белвиасат +ТВ
+http://cdn-cache01.voka.tv/live/977.m3u8
+#EXTINF:-1 tvg-id="domkino" catchup="append" tvg-logo="https://picon.pp.ua/domkino.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Дом кино
+http://cdn-cache01.voka.tv/live/5105.m3u8
+#EXTINF:-1 tvg-id="domkino-premium" catchup="append" tvg-logo="https://picon.pp.ua/domkino-premium.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Дом кино Премиум
+http://cdn-cache01.voka.tv/live/5111.m3u8
+#EXTINF:-1 tvg-id="dorama" catchup="append" tvg-logo="https://picon.pp.ua/dorama.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Дорама
+http://cdn-cache01.voka.tv/live/2021.m3u8
+#EXTINF:-1 tvg-id="evrokino" catchup="append" tvg-logo="https://picon.pp.ua/eurokino.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Еврокино
+http://cdn-cache01.voka.tv/live/903.m3u8
+#EXTINF:-1 tvg-id="illuzion-plus" catchup="append" tvg-logo="https://picon.pp.ua/illuzion-plus.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Иллюзион +
+http://cdn-cache01.voka.tv/live/603.m3u8
+#EXTINF:-1 tvg-id="indiyskoe-kino" catchup="append" tvg-logo="https://picon.pp.ua/indijskoe-kino.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Индийское кино
+http://cdn-cache01.voka.tv/live/1447.m3u8
+#EXTINF:-1 tvg-id="kinokomedia" catchup="append" tvg-logo="https://picon.pp.ua/kinokomedia.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Кинокомедия
+http://cdn-cache01.voka.tv/live/2116.m3u8
+#EXTINF:-1 tvg-id="kinomiks" catchup="append" tvg-logo="https://picon.pp.ua/kinomiks.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Киномикс
+http://cdn-cache01.voka.tv/live/71.m3u8
+#EXTINF:-1 tvg-id="kinopremiera-hd" catchup="append" tvg-logo="https://picon.pp.ua/kinopremiera.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Кинопремьера
+http://cdn-cache01.voka.tv/live/73.m3u8
+#EXTINF:-1 tvg-id="kinosat" catchup="append" tvg-logo="https://picon.pp.ua/kinosat.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Киносат
+http://cdn-cache01.voka.tv/live/59.m3u8
+#EXTINF:-1 tvg-id="kinosvidanie" catchup="append" tvg-logo="https://picon.pp.ua/kinosvidanie.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Киносвидание
+http://cdn-cache01.voka.tv/live/77.m3u8
+#EXTINF:-1 tvg-id="kinosemiya" catchup="append" tvg-logo="https://picon.pp.ua/kinosemia.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Киносемья
+http://cdn-cache01.voka.tv/live/72.m3u8
+#EXTINF:-1 tvg-id="kinoseria" catchup="append" tvg-logo="https://picon.pp.ua/kinoseria.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Киносерия
+http://cdn-cache01.voka.tv/live/79.m3u8
+#EXTINF:-1 tvg-id="kinoxit" catchup="append" tvg-logo="https://picon.pp.ua/kinoxit.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Кинохит
+http://cdn-cache01.voka.tv/live/70.m3u8
+#EXTINF:-1 tvg-id="klassika-kino" catchup="append" tvg-logo="https://picon.pp.ua/klassika-kino.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Классика Кино
+http://cdn-cache01.voka.tv/live/3006.m3u8
+#EXTINF:-1 tvg-id="muzhskoe-kino" catchup="append" tvg-logo="https://picon.pp.ua/muzhskoe-kino.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Мужское кино
+http://cdn-cache01.voka.tv/live/74.m3u8
+#EXTINF:-1 tvg-id="nashe-novoe-kino" catchup="append" tvg-logo="https://picon.pp.ua/nashe-novoe-kino.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Наше новое кино
+http://cdn-cache01.voka.tv/live/75.m3u8
+#EXTINF:-1 tvg-id="nst" catchup="append" tvg-logo="https://picon.pp.ua/nst.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",НСТ
+http://cdn-cache01.voka.tv/live/6008.m3u8
+#EXTINF:-1 tvg-id="ntv-serial" catchup="append" tvg-logo="https://picon.pp.ua/ntv-serial.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",НТВ Сериал
+http://cdn-cache01.voka.tv/live/2065.m3u8
+#EXTINF:-1 tvg-id="retro-tv" catchup="append" tvg-logo="https://picon.pp.ua/retro-tv.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Ретро
+http://cdn-cache01.voka.tv/live/335.m3u8
+#EXTINF:-1 tvg-id="rodnoe-kino" catchup="append" tvg-logo="https://picon.pp.ua/rodnoe-kino.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Родное кино
+http://cdn-cache01.voka.tv/live/80.m3u8
+#EXTINF:-1 tvg-id="russky-illuzion" catchup="append" tvg-logo="https://picon.pp.ua/russky-illuzion.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Русский иллюзион
+http://cdn-cache01.voka.tv/live/616.m3u8
+#EXTINF:-1 tvg-id="sovkino" catchup="append" tvg-logo="https://picon.pp.ua/sovkino.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Советское кино
+http://cdn-cache01.voka.tv/live/3018.m3u8
+#EXTINF:-1 tvg-id="feniks-plus-kino" catchup="append" tvg-logo="https://picon.pp.ua/feniks-plus-kino.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Феникс+ Кино
+http://cdn-cache01.voka.tv/live/332.m3u8
+#EXTINF:-1 tvg-id="muvitv" catchup="append" tvg-logo="https://picon.pp.ua/muvitv.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Кино и сериалы",Муви ТВ
+http://cdn-cache01.voka.tv/live/5007.m3u8
+#EXTINF:-1 tvg-id="2na2" catchup="append" tvg-logo="https://picon.pp.ua/2na2.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Развлекательные",2x2
+http://cdn-cache01.voka.tv/live/220.m3u8
+#EXTINF:-1 tvg-id="domashny" catchup="append" tvg-logo="https://picon.pp.ua/domashny.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Развлекательные",Домашний
+http://cdn-cache01.voka.tv/live/961.m3u8
+#EXTINF:-1 tvg-id="kvn-tv" catchup="append" tvg-logo="https://picon.pp.ua/kvn-tv.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Развлекательные",КВН ТВ
+http://cdn-cache01.voka.tv/live/2164.m3u8
+#EXTINF:-1 tvg-id="oruzhie" catchup="append" tvg-logo="https://picon.pp.ua/oruzhie.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Развлекательные",Оружие
+http://cdn-cache01.voka.tv/live/168.m3u8
+#EXTINF:-1 tvg-id="perec-int" catchup="append" tvg-logo="https://picon.pp.ua/perec.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Развлекательные",Перец
+http://cdn-cache01.voka.tv/live/971.m3u8
+#EXTINF:-1 tvg-id="sarafan" catchup="append" tvg-logo="https://picon.pp.ua/sarafan.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Развлекательные",Сарафан
+http://cdn-cache01.voka.tv/live/84.m3u8
+#EXTINF:-1 tvg-id="svetloe-tv" catchup="append" tvg-logo="https://picon.pp.ua/svetloe-tv.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Развлекательные",Светлое ТВ
+http://cdn-cache01.voka.tv/live/973.m3u8
+#EXTINF:-1 tvg-id="tnt-int-by" catchup="append" tvg-logo="https://picon.pp.ua/tnt-int-by.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Развлекательные",ТНТ-International (Беларусь)
+http://cdn-cache01.voka.tv/live/5120.m3u8
+#EXTINF:-1 tvg-id="tv3-by" catchup="append" tvg-logo="https://picon.pp.ua/tv3-by.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Развлекательные",ТВ-3
+http://cdn-cache01.voka.tv/live/5127.m3u8
+#EXTINF:-1 tvg-id="belarus4-brest" catchup="append" tvg-logo="https://picon.pp.ua/belarus4.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Региoнальные",Беларусь 4 Брест
+http://cdn-cache01.voka.tv/live/2013.m3u8
+#EXTINF:-1 tvg-id="belarus4-vitebsk" catchup="append" tvg-logo="https://picon.pp.ua/belarus4.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Региoнальные",Беларусь 4 Витебск
+http://cdn-cache01.voka.tv/live/2012.m3u8
+#EXTINF:-1 tvg-id="belarus4-gomel" catchup="append" tvg-logo="https://picon.pp.ua/belarus4.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Региoнальные",Беларусь 4 Гомель
+http://cdn-cache01.voka.tv/live/2011.m3u8
+#EXTINF:-1 tvg-id="belarus4-mogilev" catchup="append" tvg-logo="https://picon.pp.ua/belarus4.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Региoнальные",Беларусь 4 Могилев
+http://cdn-cache01.voka.tv/live/2097.m3u8
+#EXTINF:-1 tvg-id="" catchup="append" tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/bobruysk_360.jpg" tvg-name="NO EPG (заглушка)" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Региoнальные",Бобруйск 360
+http://cdn-cache01.voka.tv/live/6239.m3u8
+#EXTINF:-1 tvg-id="bug-tv" catchup="append" tvg-logo="https://picon.pp.ua/bug-tv.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Региoнальные",Буг-ТВ
+http://cdn-cache01.voka.tv/live/7001.m3u8
+#EXTINF:-1 tvg-id="variag" catchup="append" tvg-logo="https://picon.pp.ua/variag.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Региoнальные",Варяг
+http://cdn-cache01.voka.tv/live/7003.m3u8
+#EXTINF:-1 tvg-id="vitebsk" catchup="append" tvg-logo="https://picon.pp.ua/vitebsk.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Региoнальные",Витебск
+http://cdn-cache01.voka.tv/live/2023.m3u8
+#EXTINF:-1 tvg-id="zvyazda-by" catchup="append" tvg-logo="https://picon.pp.ua/zvyazda-by.png" catchup-days="3" catchup-source="?stream_start_offset=${offset}000000" group-title="Региoнальные",Звязда
+http://cdn-cache01.voka.tv/live/6238.m3u8
+#EXTINF:-1 catchup="append" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Региoнальные",Лагуна ТВ
+http://cdn-cache01.voka.tv/live/7002.m3u8
+#EXTINF:-1 tvg-id="nashe-tv-vitebsk" catchup="append" tvg-logo="https://picon.pp.ua/nashe-tv-vitebsk.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Региoнальные",НашеТВ Витебск
+http://cdn-cache01.voka.tv/live/218.m3u8
+#EXTINF:-1 tvg-id="pervy-gorodskoy-gom" catchup="append" tvg-logo="https://picon.pp.ua/pervy-gorodskoy-gom.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Региoнальные",Первый Городской (Гомель)
+http://cdn-cache01.voka.tv/live/6036.m3u8
+#EXTINF:-1 tvg-id="skif-vitebsk" catchup="append" tvg-logo="https://picon.pp.ua/skif.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Региoнальные",СкиФ Витебск
+http://cdn-cache01.voka.tv/live/3101.m3u8
+#EXTINF:-1 tvg-id="2-kanal-mogilev" catchup="append" tvg-logo="https://picon.pp.ua/2-kanal-mogilev.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Региoнальные",ТВ2 Могилёв
+http://cdn-cache01.voka.tv/live/1013.m3u8
+#EXTINF:-1 tvg-id="english-club-tv" catchup="append" tvg-logo="https://picon.pp.ua/englishclub.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Другие",English Club TV
+http://cdn-cache01.voka.tv/live/239.m3u8
+#EXTINF:-1 tvg-id="fashion-one-4k" catchup="append" tvg-logo="https://picon.pp.ua/fashion-one-4k.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Другие",Fashion 4K
+http://cdn-cache01.voka.tv/live/6052.m3u8
+#EXTINF:-1 tvg-id="fashion-one" catchup="append" tvg-logo="https://picon.pp.ua/fashion-one.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Другие",Fashion One
+http://cdn-cache01.voka.tv/live/6054.m3u8
+#EXTINF:-1 tvg-id="luxury" catchup="append" tvg-logo="https://picon.pp.ua/luxury.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Другие",Luxury
+http://cdn-cache01.voka.tv/live/212.m3u8
+#EXTINF:-1 tvg-id="tlc" catchup="append" tvg-logo="https://picon.pp.ua/tlc.png" catchup-days="3" catchup-source="?stream_start_offset=${offset}000000" group-title="Другие",TLC
+http://cdn-cache01.voka.tv/live/5117.m3u8
+#EXTINF:-1 tvg-id="world-fashion-channel" catchup="append" tvg-logo="https://picon.pp.ua/world-fashion-channel.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Другие",World Fashion Channel
+http://cdn-cache01.voka.tv/live/189.m3u8
+#EXTINF:-1 tvg-id="tro" catchup="append" tvg-logo="https://picon.pp.ua/belros.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Другие",БелРос
+http://cdn-cache01.voka.tv/live/3106.m3u8
+#EXTINF:-1 tvg-id="8kanal-by" catchup="append" tvg-logo="https://picon.pp.ua/8by.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Другие",Восьмой
+http://cdn-cache01.voka.tv/live/962.m3u8
+#EXTINF:-1 tvg-id="eda" catchup="append" tvg-logo="https://picon.pp.ua/eda.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Другие",Еда
+http://cdn-cache01.voka.tv/live/991.m3u8
+#EXTINF:-1 tvg-id="zhivi" catchup="append" tvg-logo="https://picon.pp.ua/zhivi.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Другие",Живи
+http://cdn-cache01.voka.tv/live/2078.m3u8
+#EXTINF:-1 tvg-id="kuxnia-tv" catchup="append" tvg-logo="https://picon.pp.ua/kuhnia.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Другие",Кухня ТВ
+http://cdn-cache01.voka.tv/live/137.m3u8
+#EXTINF:-1 tvg-id="ntv-pravo" catchup="append" tvg-logo="https://picon.pp.ua/ntv-pravo.png" catchup-days="7" catchup-source="?stream_start_offset=${offset}000000" group-title="Другие",НТВ Право
+http://cdn-cache01.voka.tv/live/992.m3u8
+#EXTINF:-1 tvg-id="psixologia-21" catchup="append" tvg-logo="https://picon.pp.ua/psixologia-21.png" catchup-days="1" catchup-source="?stream_start_offset=${offset}000000" group-title="Другие",Психология 21
+http://cdn-cache01.voka.tv/live/109.m3u8
+#EXTINF:-1 tvg-id="kultura" catchup="append" tvg-logo="https://picon.pp.ua/kultura.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Другие",Россия К
+http://cdn-cache01.voka.tv/live/214.m3u8
+#EXTINF:-1 tvg-id="soyuz" catchup="append" tvg-logo="https://picon.pp.ua/soyuz.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Другие",Союз
+http://cdn-cache01.voka.tv/live/583.m3u8
+#EXTINF:-1 tvg-id="candy" catchup="append" tvg-logo="https://picon.pp.ua/candy.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Для взрослых",Candy
+http://cdn-cache01.voka.tv/live/5025.m3u8
+#EXTINF:-1 tvg-id="candyman" catchup="append" tvg-logo="https://picon.pp.ua/candyman.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Для взрослых",Candyman
+http://cdn-cache01.voka.tv/live/5026.m3u8
+#EXTINF:-1 tvg-id="russkaya-noch" catchup="append" tvg-logo="https://picon.pp.ua/russkaya-noch.png" catchup-days="2" catchup-source="?stream_start_offset=${offset}000000" group-title="Для взрослых",Русская ночь
+http://cdn-cache01.voka.tv/live/1870.m3u8
 
