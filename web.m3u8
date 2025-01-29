@@ -4,7 +4,7 @@ http://overlay.iptvin.fun/iptvin.ru.mp4
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1609327340766.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Информационные" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_71F_12_70_1680000_0_0_0.png" channelId="589" tvg-id="mir-24",Мир 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_MIR24HD_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1726060569613.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Информационные",Первый информационный
+#EXTINF:-1 tvg-logo="https://mfe.svc.ott.zala.by/images//c60x60/broadcastChannel1726060569613.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Информационные",Первый информационный
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_1INFORM_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537186417219.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="https://i.ibb.co/Y8PjLsJ/TV-220x132-tr.png" channelId="-1" tvg-id="belviasat-plustv",+ТВ Белвиасат
