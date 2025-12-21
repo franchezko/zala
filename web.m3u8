@@ -1,317 +1,450 @@
 #EXTM3U url-tvg="https://epgx.club/EPG3" m3uautoload=1 cache=2000 deinterlace=1
-#EXTINF:-1 tvg-logo="http://host.iptvin.ru/images/iptvlogo.png",-zala channels 158 
+#EXTINF:-1 tvg-logo="http://host.iptvin.ru/images/iptvlogo.png",-zala channels 150 
 http://ex.iptvin.ru/iptvin.ru.mp4
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537186417219.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="https://i.ibb.co/Y8PjLsJ/TV-220x132-tr.png" channelId="-1" tvg-id="belviasat-plustv",+ТВ Белвиасат
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_PLUSTV_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164903687.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" channelId="127" tvg-id="8kanal-by",8 канал Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/ZXUZZKCA6P_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1538383795301.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_70F_12_70_1680000_0_0_0.png" channelId="3866" tvg-id="tro",БелРос
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_TRO_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1582200414598.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="https://i.postimg.cc/90TrHqwr/98df76884f82f0f9c61fc644d64aa351.png" channelId="346" tvg-id="belarus1",Беларусь 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164967847.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="https://i.postimg.cc/0NQj24Jg/94296a1d7c4eb1ca9eea9a3a7459a453.png" channelId="346" tvg-id="belarus2",Беларусь 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/GCKYZGGFEJ_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1571644901218.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="https://i.postimg.cc/PqPfk8BT/5c7879cf9b8a243c5ff9fec978dc348b.png" channelId="346" tvg-id="belarus3",Беларусь 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/TSNEW37RPC_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1427114333614.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="https://i.postimg.cc/X7dQQHq0/a45aed909a51d78c8119320ae6c356ae.png" channelId="138" tvg-id="mir",Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/M4K3ZYBPWQ_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1415259492101.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="http://epg.openboxfan.com/picon/%D0%BD%D1%82%D0%B2%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C.png" channelId="349" tvg-id="ntv-belarus",НТВ Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/DYJ5GH8HOK_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1415259010733.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="http://overlay.iptvin.online/epg/PIC/%D0%9E%D0%9D%D0%A2%20BY.png" channelId="347" tvg-id="ont-by",ОНТ Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/NCLEFHVZGR_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1471865681241.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="https://i.postimg.cc/ZqGzs3tf/436bcb7225d0ca22e9a0c01c6d5da362.png" channelId="350" tvg-id="rtr-belarus",РТР Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/7MQSYYGHFE_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1541410901860.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="https://i.ibb.co/zrCSHmJ/STV-Belarus-220x132-tr.png" channelId="348" tvg-id="stv-by",СТВ Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/RZEQ3BLSTY_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677742006702.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Детские" logo="https://i.postimg.cc/mgFb8p5R/7d9f5fe856fddfad0fbc33d49dcff549.png" channelId="3556" tvg-id="v-gostiax-u-skazki",В гостях у сказки
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_VGOSTYAH_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1427183201571.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Детские" logo="https://i.ibb.co/YcQwTzz/d5b1c880e0c2fdc576be6604a67a0233.png" channelId="39" tvg-id="detsky-mir",Детский мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/9F67L3DGIF_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537251752022.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Детские" logo="https://i115.fastpic.org/big/2021/0914/ea/9ed9ea77948addc6d31757cd65fc4cea.png" channelId="1503" tvg-id="karusel-int",Карусель International
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_KARUSEL_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1682666818583.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Детские" logo="https://i.ibb.co/NmcXrpc/Lyova-220x132-tr.png" channelId="5191" tvg-id="liova",Лёва
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_LEVA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1513239854936.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Детские" logo="http://overlay.iptvin.online/epg/PIC/%D0%9C%D1%83%D0%BB%D1%8C%D1%82.png" channelId="1722" tvg-id="mult",Мульт
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/5MWF7XUWZI_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1666355286841.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Детские" logo="https://i.ibb.co/KG6wWX6/c8bc685a60a9e4df35a584848cc6e773.png" channelId="186" tvg-id="multimania",Мультиландия
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_MULTIMANIYA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1548939656148.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Детские" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_328_8_70_168AFFC_0_0_0.png" channelId="3294" tvg-id="o_",О!
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_O_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1670933299167.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Детские" logo="http://overlay.iptvin.online/epg/PIC/%D0%A0%D1%8B%D0%B6%D0%B8%D0%B9.png" channelId="2798" tvg-id="ryzhy",Рыжий
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_RYZHIY_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588168160540.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Детские" logo="https://i.ibb.co/vPjmS4q/Kids-220x132-tr.png" channelId="1728" tvg-id="sts-kids-hd",СТС Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_CTCKIDS_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1670930517480.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Детские" logo="https://i.ibb.co/prQrm37/Sovetskie-multfilmy-220x132-tr.png" channelId="-1" tvg-id="sovmultf",Советские мультфильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_SOVMULT_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1762156176140.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Детские",Умка
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_UMKA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1695308266811.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Детские" logo="http://overlay.iptvin.online/epg/PIC/%D0%A3%D0%BD%D0%B8%D0%BA%D1%83%D0%BC%20HD.png" channelId="192" tvg-id="detsky",Уникум
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_UNIKUM_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1609327340766.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Информационные" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_71F_12_70_1680000_0_0_0.png" channelId="589" tvg-id="mir-24",Мир 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_MIR24HD_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1742466436557.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Информационные" tvg-id="pervy-info-by",Первый инф. Брест
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_1INFORMBREST_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1742466039936.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Информационные" tvg-id="pervy-info-by",Первый инф. Витебск
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_1INFORMVIT_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1742466695544.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Информационные" tvg-id="pervy-info-by",Первый инф. Гомель
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_1INFORMGOMEL_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1742466620449.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Информационные" tvg-id="pervy-info-by",Первый инф. Гродно
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_1INFORMGRODNO_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1742466535812.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Информационные" tvg-id="pervy-info-by",Первый инф. Могилёв
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_1INFORMMOGILEV_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1726060569613.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Информационные" tvg-id="pervy-info-by",Первый информационный
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_1INFORM_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1753950559329.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.ibb.co/qJQqPF6/black-220x132-white-tr.png" channelId="5173" tvg-id="sony-turbo",.Black
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_BLACK_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1753950540895.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://overlay.iptvin.site/epg/PIC/Red.png" channelId="5172" tvg-id="sony-tv",.Red
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_RED_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1626170801142.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://overlay.iptvin.online/epg/PIC/Sci-Fi.png" channelId="5171" tvg-id="sony-scifi",.sci-fi
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/EDVYQYGHF8_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1763965188395.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://overlay.iptvin.online/epg/PIC/Bollywood%20HD.png" channelId="2802" tvg-id="bollywood-hd",Bollywood HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_BOLLYWOODHD_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1572856395020.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://antifriz.tv/storage/images/pack_logos/199f12272161f01943e3972bdbb88db4.png" channelId="181" tvg-id="cinema-ru",Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_CINEMA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1763965394284.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.ibb.co/dpNgDJk/Hollywood-512x436-tr.png" channelId="3919" tvg-id="hollywood",Hollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_HOLLYWOOD_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1759142419143.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.ibb.co/YDQy5n2/94b546a8ada7b13b661ecbb12b47e112.png" channelId="-1" tvg-id="novellatv",NovellaTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_NOVELLATV_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677738242702.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.postimg.cc/1RC06KG1/16728fb6b6625947ede1692cb9b70ecc.png" channelId="214" tvg-name="TV1000 Action" tvg-id="tv1000-action",TV 1000 Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/9X9NUEEKGW_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677737991230.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.postimg.cc/G2MDFcsx/a5509c5edc842e74d96d5723d963dd23.png" channelId="65" tvg-name="TV1000 Русское кино" tvg-id="tv1000-russkoe-kino",TV 1000 Русское кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/PWIKICZUYF_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677737815098.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.postimg.cc/zXvjPQzf/2800ee9c9686b408d444725bd631b885.png" channelId="66" tvg-name="TV1000" tvg-id="tv1000",TV 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/6WMZMUEWGN_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1701668019849.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_2D9_7_70_1680000_0_0_0.png" channelId="193" tvg-id="tvxxi",TV XXI
-https://mfe.svc.ott.zala.by/hls/CH_TV21_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1753950581880.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.postimg.cc/m2WXGyfy/569e72085cef47f9b69845251b1dd1a6.png" channelId="-1" tvg-id="timeless-dizi",Timeless Dizi Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_DIZI_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1698741436533.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.postimg.cc/CMtBSxQs/c4149857fe70d147c73428e0c098487d.png" channelId="-1" tvg-id="vhs-ka",VHS-ка
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_VHS_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677741479669.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://infoua.biz/image/tv/stream/vipc.png" channelId="607" tvg-id="vip-comedy",VIP Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_TV1000COMEDY_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677738653699.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://tv-server.trinity-tv.net/icons/channels/224.png" channelId="606" tvg-id="vip-megahit",VIP Megahit
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_TV1000MEGAHIT_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677741388430.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://noblink.media/pics/235472.png" channelId="605" tvg-id="vip-premiere",VIP Premiere
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_TV1000PREMIUM_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677738922979.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://teleprogramma.tv/images/vip_serial.png" channelId="3894" tvg-id="vip-serial",ViP Serial
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_VIPSERIAL_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1711696040978.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.postimg.cc/HW7783pG/c7127d5872999f7c3141b5e82401e6c3.png" channelId="-1" tvg-id="viju-tv1000-novella",viju TV1000 новелла
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_TV1000NOVELLA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1611568501814.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://overlay.iptvin.online/epg/PIC/%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B0%D0%BB%20HD.png" channelId="1039" tvg-id="arsenaltv" shift="3",Арсенал
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_ARSENAL_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588167987680.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.ibb.co/p46LNzz/119834ba72e6420055ed54a81e66415c.png" tvg-id="domkino-premium" channelId="948983790394",Дом кино Премиум
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_DOMPREMIUM_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164602441.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://overlay.iptvin.online/epg/PIC/%D0%94%D0%BE%D0%BC%20%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-id="domkino" channelId="948983790394",Дом кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_DOMKINO_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1739860068838.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",ЕвроКино
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_EVROKINO_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1748855026647.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.postimg.cc/y6rJgsyf/49dd91d5aec30501928147d42d794821.png" channelId="190" tvg-id="illuzion-plus",Иллюзион+
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_ILLUZPLUS_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1704974276786.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.ibb.co/rm6FtfK/Indiya-220x132-tr.png" channelId="253" tvg-id="zee-tv",Индия
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_INDIYA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537257537709.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Кинокомедия international
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_KINOCOMED_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1471866021432.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Киномикс international
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/VVG76MWUGX_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164692862.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Кинопремьера international
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_KINOPREMERA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1699601174376.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" channelId="4643" tvg-id="kinosat",Киносат
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_KINOMAN_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1646319116545.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Киносвидание international
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_KINOSVIDANIE_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1471866189255.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Киносемья international
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/FEDXG8XPOR_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1646319790731.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Киносерия international
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_KINOSERIA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1471866006494.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Кинохит international
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/HDOHSSZQCP_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164859211.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.postimg.cc/fkndkS30/b6d4dde925e3705a26de5af36cabddc3.png" channelId="314" tvg-id="lubimoe-kino",Любимое кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_NASHEKINO_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1664452471376.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.ibb.co/j3f7rGs/5e2021c4e358903e655b189b18ee3847.png" channelId="312" tvg-id="mir-seriala",Мир сериала
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_MIRSERIALA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1698302318881.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.ibb.co/Wvxs6rD/Mosfilm-Zolotaya-kollekciya-220x132-tr.png" channelId="4908" tvg-id="mosfilm",Мосфильм. Золотая коллекция
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_MOSFILM_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1642402765425.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.ibb.co/PhsTw6m/8ed534ab888879efaf239de23a934c86.png" channelId="-1" tvg-id="muvitv",Муви ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_MUVI_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164839676.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Мужское кино international
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/W7LNWHFGTB_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1513237948033.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://antifriz.tv/storage/images/channel_logos/hct.png" channelId="272" tvg-id="nst",НСТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/NEZVX5TVZX_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1575277185067.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://overlay.iptvin.online/epg/PIC/%D0%9D%D0%A2%D0%92%20%D0%9F%D1%80%D0%B0%D0%B2%D0%BE.png" channelId="3162" tvg-id="ntv-pravo",НТВ Право
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_NTVPRAVO_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1575277436910.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://overlay.iptvin.online/epg/PIC/%D0%9D%D0%A2%D0%92%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB.png" channelId="3160" tvg-id="ntv-serial",НТВ Сериал
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_NTVSERIAL_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1715321769337.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.postimg.cc/26985yPh/8dae3f5f756ffabdae4a2e9c9d7e3eb6.png" channelId="4767" tvg-id="nash-kinopokaz-hd",Наш Кинопоказ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_ZAL13_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1572423621656.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Пятый int
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_5INTERNAT_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1739860047603.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://overlay.iptvin.online/epg/PIC/%D0%A0%D0%B5%D1%82%D1%80%D0%BE.png" channelId="246" tvg-id="retro-tv",Ретро
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_RETRO_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1471866143055.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Родное кино international
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1415259251493.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://antifriz.tv/storage/images/channel_logos/russkij-iluzion.png" channelId="189" tvg-id="russky-illuzion",Русский Иллюзион
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CMV4SNACFQ_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1760952392707.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Тех лет ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_TEHLET_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1721652650490.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://fenixplus.tv/bitrix/templates/main/images/logo_for_web.png" channelId="197" tvg-id="feniks-plus-kino",Феникс+Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_FENIKS_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1415259378918.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Музыкальные" logo="https://i.postimg.cc/4yWTjLLw/5fb36503ff93133d3f5afc917ab6ec5b.png" channelId="42" tvg-id="europa-plus-tv",Europa Plus TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/BHH8EKRXPO_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537193411464.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Музыкальные" tvg-id="live-music-channel",Live Music Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_LMC_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1427179091917.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Музыкальные" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_714_12_70_1680000_0_0_0.png" channelId="-1" tvg-id="ru-tv-by",RU.TV Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/XW6AGFSZJ8_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1590052044506.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Музыкальные" logo="http://infoua.biz/image/tv/stream/belmuz.png" channelId="812" tvg-id="belmuztv",БелМузТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_BELMUZ_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1722405038540.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Музыкальные",МузСоюз
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_MUZSOYUZ_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1427182931817.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Музыкальные" channelId="47" tvg-id="shanson-tv",Шансон-TB
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/3K2MEWVSDF_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1702991589431.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="https://i.ibb.co/QDWKJys/Animal-Planet-HD-220x132-tr.png" channelId="240" tvg-id="animal-planet",Animal Planet HD
-https://mfe.svc.ott.zala.by/hls/CH_ANIMALPLANET_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537253815204.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="https://trinity-tv.net/storage/channels/dark_theme_336.png" channelId="341" tvg-id="discovery-channel",Discovery
-https://mfe.svc.ott.zala.by/hls/CH_DISCOVERY_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1721807015431.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="https://i.postimg.cc/3Rt8LnPZ/cf3e4248bf8dcc482d6d5c1be6ab3b35.png" channelId="-1" tvg-id="epic",EPIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_EPIC_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1601363013478.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="http://cbilling.pw/img/streams/id-xtra-hd.png" channelId="59" tvg-id="id-xtra-eu",Investigation Discovery CEE HD
-https://mfe.svc.ott.zala.by/hls/CH_IDHD_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1713521538064.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="https://i.ibb.co/QvvthvB/TERRA-HD-220x132-tr.png" channelId="-1" tvg-name="TERRA" tvg-id="terra-ru",TERRA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_TERRAHD_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1734686249521.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" channelId="596" tvg-id="travel-adventure",Travel and Adventure
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_TRAVELADVENT_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677741702783.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="http://overlay.iptvin.online/epg/PIC/Viasat%20Explore.png" channelId="165" tvg-id="viasat-explore",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/JQQ83OBHTQ_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677738547255.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="https://i.postimg.cc/wMDWqGgX/af3116c384fafcbf8663067347d3951f.png" channelId="166" tvg-id="viasat-history",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_VIASATHISTORY_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677738366635.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="https://i.ibb.co/d7j0R8K/Viasat-Nature-220x132-tr.png" channelId="172" tvg-id="viasat-nature",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/BN3FTDY3T8_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677739109404.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="http://overlay.iptvin.online/epg/PIC/Viasat%20Nature_History%20HD.png" channelId="588" tvg-id="viasat-nature-history-hd",Viasat Nature/History HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_VIASATNATUREHD_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1739860084130.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="https://i.ibb.co/Sc4KTg4/logo.png" channelId="167" tvg-id="zoopark",ZooПарк
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_ZOOPARK_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1643625409004.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="http://overlay.iptvin.online/epg/PIC/%D0%91%D0%BE%D0%B1%D1%91%D1%80.png" channelId="646" tvg-id="bobior",Бобёр
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_BOBER_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1759730374076.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="http://overlay.iptvin.online/epg/PIC/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B8%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B.png" channelId="250" tvg-id="voprosy-i-otvety",Вопросы и ответы
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_VOPROSY_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164521152.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="https://i.postimg.cc/43cHZVTp/eb6362d2b92345229b1d2be201ab34de.png" channelId="176" tvg-id="vremia",Время
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_VREMYA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1600671344491.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="https://i.ibb.co/022jyrQ/Glazami-turista-220x132-tr.png" channelId="4646" tvg-id="glazami-turista",Глазами туриста
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_GLAZTUR_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164374890.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="http://overlay.iptvin.online/epg/PIC/%D0%95%D0%B4%D0%B0%20%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%20HD.png" channelId="232" tvg-id="eda-hd",Еда Премиум Международный
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/BCPKKUK5NT_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1701326811933.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="https://i.ibb.co/CVQ45c7/9355113d807a6a04d9b7172c2199d2d2.png" channelId="1815" tvg-id="zhivaya-priroda",Живая природа
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_ZHIVPRIRODA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1689675234414.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="https://i.ibb.co/1qMw7gz/Zvezda-Plyus-285x171-tr.png" channelId="-1" tvg-id="zvezda-plus",Звезда Плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_ZVEZDA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1418416818693.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="https://i.postimg.cc/BnFvq5Kq/e2bd00f1b74aad7f41941afd1d065754.png" channelId="75" tvg-id="kuxnia-tv",Кухня ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/EPX2UEHLPK_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1752225612460.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные",Лапки LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_LAPKI_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1513238567499.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="http://overlay.iptvin.online/epg/PIC/%D0%9C%D0%BE%D1%8F%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%20HD.png" channelId="1762" tvg-id="moya-planeta",Моя планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/FV47BRVQW4_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1757338558121.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" channelId="505" tvg-id="nano-hd",Нано HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_NANOHD_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1513239024448.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="http://overlay.iptvin.online/epg/PIC/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0%202.0.png" channelId="173" tvg-id="nauka-20",Наука 2.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/LWWBCKZAPZ_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164054020.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="https://i.ibb.co/t3PZxBj/orujie.png" channelId="223" tvg-id="oruzhie",Оружие
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/EWEXU8FWAZ_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1643625186317.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="https://i.postimg.cc/WbLYFqDT/e5f45a4fdbc8482ca5946a1c4d987d8c.png" channelId="3295" tvg-id="poexali",Поехали!
-https://mfe.svc.ott.zala.by/hls/CH_POEHALY_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1415259270381.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5" tvg-id="kultura",Россия Культура
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/9XJGVFFAWZ_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1722239184875.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="https://i.ibb.co/kBP0hJh/Sovershenno-sekretno-205x150-tr.png" channelId="175" tvg-id="sovsek",Совершенно секретно
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_SOVSEKRET_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164671975.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" tvg-id="galaxy-tv" group-title="Познавательные" logo="http://overlay.iptvin.online/epg/PIC/Galaxy.png" channelId="391",Тайны Галактики
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_GALAXY_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1643624927770.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_338_8_70_168AFFC_0_0_0.png" channelId="161" tvg-id="telekafe",Телекафе
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_TELEKAFE_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1513238834027.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="https://i.ibb.co/yXh50W3/77523699d7ed019c7c93c7331cb22df3.png" channelId="162" tvg-id="texno-24",Техно 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/ZIVFRAFR2I_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1561382082675.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="http://infoua.biz/image/tv/stream/usadba.png" channelId="222" tvg-id="usadba",Усадьба
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/XMC4NSRVN9_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1632984377142.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные" logo="https://i.ibb.co/RSPDKD5/8d269b965cde594a73b4d9aa6f980124.png" channelId="3871" tvg-id="anekdottv",Анекдот ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_ANEKDOT_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1680208016751.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные" logo="http://overlay.iptvin.online/epg/PIC/%D0%94%D0%B8%D0%BA%D0%B0%D1%8F%20%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0%20HD.png" channelId="3882" tvg-id="dikaya-rybalka-hd",Дикая рыбалка HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_DIKAYARIBALKA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537186245480.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="-1" tvg-id="domashny-int" channelId="945989193596",Домашний International
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_DOMINT_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1752218016388.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные" logo="https://i.ibb.co/CJLxQ65/Zal-suda-220x132-tr.png" channelId="-1" tvg-id="zal-suda",Зал суда
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_ZALSUDA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1611568442260.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные" logo="http://overlay.iptvin.online/epg/PIC/%D0%9D%D0%A2%D0%92%20%D0%A1%D1%82%D0%B8%D0%BB%D1%8C.png" channelId="3161" tvg-id="ntv-style",НТВ Стиль
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_NTVSTIL_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1623963655683.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные" logo="http://overlay.iptvin.online/epg/PIC/%D0%9E%D1%85%D0%BE%D1%82%D0%B0%20%D0%B8%20%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0.png" channelId="221" tvg-id="oxota-i-rybalka",Охота и рыбалка
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_RYBALKAIOHOTA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588168544964.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные" logo="https://i.ibb.co/x5bLJSJ/1f206a2ea46909c23ac33baf846138a5.png" channelId="335" tvg-id="oxotnik-i-rybolov-hd",Охотник и рыболов HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/4FDNBEDGFV_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537189529633.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные" logo="https://i.postimg.cc/YjK74W8G/6efb826c851c5538f60b3542a6e737b2.png" channelId="2909" tvg-id="perec-int",Перец
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_PEREZ_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1513239216185.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_1A3_4_70_1680000_0_0_0.png" channelId="141" tvg-id="sarafan",Сарафан
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/Y9GP8UFTZO_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1510579697927.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные" logo="https://i.postimg.cc/Qt3MgzKy/30d95d27fdf38694232b1a3568b6fa8d.png" channelId="8" tvg-id="tv3-ru",ТВ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/KLQQ9ECGSQ_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1454571335205.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные" logo="http://overlay.iptvin.online/epg/PIC/%D0%A2%D0%9D%D0%A2%20Int.png" channelId="2915" tvg-id="tnt-int-by",ТНТ International Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/MVNP5DA4U9_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1748855065836.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные" logo="https://i.ibb.co/FDmwYwg/Tochka-otryva-205x150-tr.png" channelId="3705" tvg-id="tochka-otryva",Точка отрыва
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_TOCHKAOTRIVA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164935385.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные",Яснае ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_MINSKTV_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537267121374.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="https://i.postimg.cc/TPLxsvDP/acaa9d663d82aec5a1d296b3704a69e1.png" channelId="346" tvg-id="belarus4-brest",Беларусь 4 Брест
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_BELARUS4BR_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537267497150.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="http://overlay.iptvin.online/epg/PIC/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C%20%D0%B2%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA.png" channelId="-1" tvg-id="belarus4-vitebsk",Беларусь 4 Витебск
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_BELARUS4VIT_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537268048973.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="http://overlay.iptvin.online/epg/PIC/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C%20%D0%B3%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C.png" channelId="-1" tvg-id="belarus4-gomel",Беларусь 4 Гомель
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_BELARUS4GOM_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537268621239.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="https://i.postimg.cc/3xzVd4kK/31b8118703c0c25ae2f265e6eacba55f.png" channelId="346" tvg-id="belarus4-grodno",Беларусь 4 Гродно
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_BELARUS4GR_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537268875597.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="https://i.postimg.cc/Gpk7tM0Q/147ca3c065cea4003c94b1f361235b85.png" channelId="346" tvg-id="belarus4-mogilev",Беларусь 4 Могилев
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_BELARUS4MOG_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537257473235.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="http://overlay.iptvin.online/epg/PIC/%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%20360.png" channelId="-1" tvg-id="bobruysk360",Бобруйск 360
-https://mfe.svc.ott.zala.by/hls/CH_BOBRUISK_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1582549825124.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="https://bugtv.by/img/bug-inform/logo-large.png" channelId="-1" tvg-id="bug-tv",Буг-ТВ Брест
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_BUGTV_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1578118355719.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные",Вектор ТВ Новополоцк
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_VECTOR_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537254982233.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="https://i.ibb.co/jvB8yKk/119502d8c28cf0a0f080bb13506d970b.png" channelId="-1" tvg-id="vitebsk",Витебск ТВ
-https://mfe.svc.ott.zala.by/hls/CH_TVT_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537256912700.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" channelId="-1" tvg-id="grodno-plus",Гродно Плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_GRODNO_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1625124166626.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные",Интекс Барановичи
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_INTEX_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1582551175145.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="http://yasna.by/wp-content/uploads/2020/08/%D0%9B%D0%B0%D0%B3%D1%83%D0%BD%D0%B0-%D0%A2%D0%92_optimized-300x82.jpg" channelId="-1",Лагуна ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_LAGUNA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677741614723.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="http://overlay.iptvin.online/epg/PIC/%D0%A2%D0%92%20%D0%9B%D0%B8%D0%B4%D0%B0.png" channelId="-1" tvg-id="lida",Лида-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_LIDA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1625127059738.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="http://belsmi.by/files/smi/372.jpg" channelId="-1" tvg-id="pervy-gorodskoy-gom",Первый городской Гомель
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_GOMEL_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1703076242107.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="http://overlay.iptvin.online/epg/PIC/%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%20%D0%A2%D0%92.png" channelId="-1" tvg-id="pinsk-tv",ТК Пинск
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_PINSK_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164478110.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Религиозные" logo="https://receiver.in.ua/wp-content/uploads/2020/08/%D0%A1%D0%BE%D1%8E%D0%B7.png" channelId="35" tvg-id="soyuz",Союз
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_SOYUZ_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537254498648.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://i.ibb.co/Jn0GnWf/Eurosport-1-220x132-tr.png" channelId="82" tvg-id="eurosport1-ru",Eurosport 1
-https://mfe.svc.ott.zala.by/hls/CH_EUROSPORT1_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537255246426.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://i.ibb.co/rxLG21f/Eurosport-2-220x132-tr.png" channelId="83" tvg-id="eurosport2-ru",Eurosport 2
-https://mfe.svc.ott.zala.by/hls/CH_EUROSPORT2_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1701326786566.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://i.postimg.cc/Dwh9GFQN/c2cc6917a06db06aa1b2274b84dafa48.png" channelId="226" tvg-id="kxl-hd",KHL Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_KHLPRIME_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588168112030.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://i.postimg.cc/m2TxzBy5/f7b9111271a7ddf921e8a7104525471f.png" channelId="3877" tvg-id="m1global",M-1 Global
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_M1_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677739205331.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="http://overlay.iptvin.online/epg/PIC/Viasat%20Sport.png" channelId="155" tvg-id="viasat-sport",Viasat Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_VIASPORT_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164953719.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://otv.one/uploads/tv_image/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C-5-hd.png" channelId="1511" tvg-id="belarus5",Беларусь 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1427180449143.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_526_D_70_1680000_0_0_0.png" channelId="80" tvg-id="kxl",КХЛ
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/36H3IDE2WF_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1609837348575.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://i.ibb.co/xG2t1yH/718e7c96fd3d57b161daf4b3a5c238ae.png" channelId="447" tvg-id="match-planeta",Матч! Планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_MATCHPLANETA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1610520200387.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://i.postimg.cc/BQtVpn0d/b79b8c3bf962462989e320ffe2373617.png" channelId="919" tvg-id="football-ru",Футбол
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_FOOTBALL_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1757339286630.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Телемагазины" logo="https://img11.lostpic.net/2018/07/23/3570976b86b152197aa289d28b3adfe1.png" channelId="1656" tvg-id="luxury",Luxury HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_LUXURYHD_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1718609018957.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Эротика (18+)" logo="http://img12.lostpic.net/2018/06/07/182835ad9d2088fd8c460f24ed7740a8.png" channelId="3710" tvg-id="erox",Erox
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_EROX_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1692357284918.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Эротика (18+)",Red Lips
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_REDLIPS_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1638259453010.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Эротика (18+)" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_78_1_70_1680000_0_0_0.png" channelId="276" tvg-id="russkaya-noch",Русская ночь
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_RUSSKAYANOCH_HLS/variant.m3u8
+#EXTINF:-1 group-title="Без группы" tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1766226009791.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}",Extreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_EXTREME_HLS/variant.m3u8
 #EXTINF:-1 group-title="Без группы" tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1761850342819.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}",ПОБЕДА
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_POBEDA_HLS/variant.m3u8
