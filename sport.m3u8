@@ -1,0 +1,161 @@
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://raw.githubusercontent.com/Lorax121/everyday_epg_update/main/data/EPG_LITE.xml.gz" refresh="86400" tvg-shift=0 cache=500
+#EXTINF:-1 tvg-logo="http://host.iptvin.ru/images/iptvlogo.png",agregate from -tsn 06.01.26 23:04 User: svetlachoco IP: 178.125.112.52 iptvin.ru channels 79
+http://ex.iptvin.ru/iptvin.ru.mp4
+#EXTINF:-1 group-title="Спорт",ACI Sport
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=aci_sport&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Africa 24 Sport
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=africa24_sport&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=eurosport1&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",FightBox
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=fightbox&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Futbol TV Telekanali UZ
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=futbol_tv_uz&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",KHL Prime
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=khl_praim&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",KHL
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=kxl&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",KTRK Sport KG
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=kg_ktrk_sport&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",MMA-TV
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=mma_tv&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",SFT combat
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=sft_combat&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Setanta Sports 1
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=setanta_sports&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Setanta Sports 2
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=setanta_sports_plus&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Sport 1 CZ
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=sport_1_cz&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Sport 2 CZ
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=sport_2_cz&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Sport KZ
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=qazaqstan_sport&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Sport TV UZ
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=spotr_tv_uz&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",TSN 1
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tsn_1&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",TSN 2
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tsn_2&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",TSN 3
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tsn_3&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",TSN 4
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tsn_4&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",TSN 5
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tsn_5&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Trace Sport Stars
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=trace_sport_stars&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Trace Urban
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=trace_urban&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",VITAL SPORT DRIVE
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=vital_sport_drive&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",XSport
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=xsport&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",viju+ Sport
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=viasat_sport&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Беларусь 5
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=belarus5&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Бокс ТВ
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=box_tv&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Варзиш Спорт
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=varzish_sport&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Волейбол
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=voleybol&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Конный мир
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=konny_mir&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Матч! Арена
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=match_arena&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Матч! Боец
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=match_boets&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Матч! Игра
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=match_igra&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Матч! Премьер
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=match_premier&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Матч! Страна
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=match_strana&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Матч! ТВ
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=matchtv&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=match_football_1&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=match_football_2&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=match_football_3&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Мяч
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=myach&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Сила
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=sila&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Спортивный
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=sportivny&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Старт Баскет
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=start_basket&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Старт Триумф
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=start_triumf&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Старт
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=start&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Точка отрыва
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tochka_otryva&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 1
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_1&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 10
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_10&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 11
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_11&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 12
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_12&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 13
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_13&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 14
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_14&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 15
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_15&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 16
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_16&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 17
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_17&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 18
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_18&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 19
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_19&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 2
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_2&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 20
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_20&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 21
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_21&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 22
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_22&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 23
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_23&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 24
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_24&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 25
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_25&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 26
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_26&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 27
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_27&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 28
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_28&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 29
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_29&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 3
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_3&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 4
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_4&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 5
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_5&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 6
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_6&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 7
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_7&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 8
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_8&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 9
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tricolor_sp_9&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Футбол
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=football_ru&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Футбольный
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=footbolny&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
+#EXTINF:-1 group-title="Спорт",Хоккейный
+http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=xokkejny&user=svetlachoco&token=e95785d694a7980fd52e2d50aa7665120e7a9db7f7e777467f6913e4a4ee2939&te=1767940605
