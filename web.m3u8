@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/EPG_LITE.xml.gz" refresh="86400" tvg-shift=0 cache=500
-#EXTINF:-1 tvg-logo="http://host.iptvin.ru/images/iptvlogo.png",agregate from -zala-auto 31.01.26 21:52 User: svetlachoco IP: 37.17.76.124 iptvin.ru channels 142
+#EXTINF:-1 tvg-logo="http://host.iptvin.ru/images/iptvlogo.png"
 http://ex.iptvin.ru/iptvin.ru.mp4
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537186417219.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="http://ex.iptvin.ru/pic/2/TV-220x132-tr.png" channelId="-1" tvg-id="belviasat-plustv",+ТВ Белвиасат
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
