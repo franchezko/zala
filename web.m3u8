@@ -493,6 +493,9 @@ http://37.194.160.101:81/udp/239.1.23.3:1234
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild6262-3465-4632-b330-653339383363/199407587.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" channelId="919" tvg-id="football-ru",Футбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://livesports24.online/footballrus.m3u8
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт",Sport TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+http://178.124.179.122:8080/SportTV/mpegts
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1757339286630.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Телемагазины" logo="https://img11.lostpic.net/2018/07/23/3570976b86b152197aa289d28b3adfe1.png" channelId="1656" tvg-id="luxury",Luxury HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_LUXURYHD_HLS/variant.m3u8
