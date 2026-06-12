@@ -460,6 +460,39 @@ https://mfe.svc.ott.zala.by/hls/CH_RUSEXTREME_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1610520200387.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://i.postimg.cc/BQtVpn0d/b79b8c3bf962462989e320ffe2373617.png" channelId="919" tvg-id="football-ru",Футбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_FOOTBALL_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/9dc44b5959bd754f0482f80581b9d279.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" channelId="154" tvg-id="russky-ekstrim",Russian Extreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+http://5.137.202.31:1234/udp/233.7.70.7:5000
+#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/374d9dc14fb004e67d4e5d0205eb8a97.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://runigma.com.ua/EPG/picons/Viasat%20Sport.png" channelId="155" tvg-id="viasat-sport",Viasat Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+http://5.137.202.31:1234/udp/233.7.70.15:5000
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/1318.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_526_D_70_1680000_0_0_0.png" channelId="80" tvg-id="kxl",КХЛ ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+http://5.137.202.31:1234/udp/233.7.70.5:5000
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000606546579-e8w59f-t500x500.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/5b7878bb6c93dcad64d9cb4ca06a4671.png" channelId="81" tvg-id="match-boets",Матч! Боец
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+http://37.194.160.101:81/udp/239.1.12.9:1234
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/1303.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_517_D_70_1680000_0_0_0.png" channelId="158" tvg-id="match-igra",Матч! Игра
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+http://37.194.160.101:81/udp/239.1.12.10:1234
+#EXTINF:-1 tvg-logo="https://tv.nalench.com/uploads/screenshots/match_premier.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://img15.lostpic.net/2019/09/10/eab7643c537e4bc0317379b07e0ded74.png" channelId="277" tvg-id="match-premier",Матч! Премьер
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+http://37.194.160.101:81/udp/239.1.20.11:1234
+#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/dd3b8ff3ff848c83006900eaa8f88297.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/cae9d73b45825d9adc9fa2a3f808bf62.png" channelId="84" tvg-id="match-nash-sport",Матч! Страна
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+http://37.194.160.101:81/udp/239.1.12.12:1234
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/1305.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_519_D_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+http://37.194.160.101:81/udp/239.1.23.1:1234
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/69edf6e78519574ecc43a1e3d172706f.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51A_D_70_1680000_0_0_0.png" channelId="554" tvg-id="match-football2",Матч! Футбол 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+http://37.194.160.101:81/udp/239.1.23.2:1234
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/96050371f8ff6bdeba834209e420e551.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51B_D_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+http://37.194.160.101:81/udp/239.1.23.3:1234
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild6262-3465-4632-b330-653339383363/199407587.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" channelId="919" tvg-id="football-ru",Футбол
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://livesports24.online/footballrus.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1757339286630.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Телемагазины" logo="https://img11.lostpic.net/2018/07/23/3570976b86b152197aa289d28b3adfe1.png" channelId="1656" tvg-id="luxury",Luxury HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_LUXURYHD_HLS/variant.m3u8
