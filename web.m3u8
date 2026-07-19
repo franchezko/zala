@@ -424,6 +424,9 @@ https://mfe.svc.ott.zala.by/hls/CH_FOOTBALL_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт",Sport TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 http://178.124.179.122:8080/SportTV/mpegts
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2051.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт",Матч! ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=UgevADJNNWBFOqad7wr5Ug&e=2071401301&scheme=https
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1757339286630.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Телемагазины" logo="https://img11.lostpic.net/2018/07/23/3570976b86b152197aa289d28b3adfe1.png" channelId="1656" tvg-id="luxury",Luxury HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_LUXURYHD_HLS/variant.m3u8
