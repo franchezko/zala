@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://doas.top/EPG_LITE" m3uautoload=1 cache=2000 deinterlace=1
-#EXTINF:-1 tvg-logo="http://host.iptvin.ru/images/iptvlogo.png",-zala 01.11.26 17:53 User: svetlachoco IP: 37.45.48.74 channels 151 
+#EXTINF:-1 tvg-logo="http://host.iptvin.ru/images/iptvlogo.png",-zala 10.11.26 21:32 User: svetlachoco IP: 178.125.104.92 channels 150 
 http://ex.iptvin.ru/iptvin.ru.mp4
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537186417219.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="http://ex.iptvin.ru/pic/2/TV-220x132-tr.png" channelId="-1" tvg-id="belviasat-plustv",+ТВ Белвиасат
 https://mfe.svc.ott.zala.by/hls/CH_PLUSTV_HLS/variant.m3u8
@@ -71,8 +71,6 @@ https://mfe.svc.ott.zala.by/hls/CH_CINEMA_HLS/variant.m3u8
 https://mfe.svc.ott.zala.by/hls/CH_DETECTIVEJAM_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1759142419143.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://ex.iptvin.ru/pic/2/94b546a8ada7b13b661ecbb12b47e112.png" channelId="-1" tvg-id="novellatv",NovellaTV
 https://mfe.svc.ott.zala.by/hls/CH_NOVELLATV_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1787741220411.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",SAGA TV
-https://mfe.svc.ott.zala.by/hls/CH_SAGATV_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677738242702.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.postimg.cc/1RC06KG1/16728fb6b6625947ede1692cb9b70ecc.png" channelId="214" tvg-name="TV1000 Action" tvg-id="tv1000-action",TV 1000 Action
 https://mfe.svc.ott.zala.by/hls/9X9NUEEKGW_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677737991230.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.postimg.cc/G2MDFcsx/a5509c5edc842e74d96d5723d963dd23.png" channelId="65" tvg-name="TV1000 Русское кино" tvg-id="tv1000-russkoe-kino",TV 1000 Русское кино
@@ -95,9 +93,9 @@ https://mfe.svc.ott.zala.by/hls/CH_VIPSERIAL_HLS/variant.m3u8
 https://mfe.svc.ott.zala.by/hls/CH_TV1000NOVELLA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1611568501814.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://overlay.iptvin.ru/epg/PIC/%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B0%D0%BB%20HD.png" channelId="1039" tvg-id="arsenaltv" shift="3",Арсенал
 https://mfe.svc.ott.zala.by/hls/CH_ARSENAL_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588167987680.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://ex.iptvin.ru/pic/2/119834ba72e6420055ed54a81e66415c.png" tvg-id="domkino-premium" channelId="941871155422",Дом кино Премиум
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588167987680.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://ex.iptvin.ru/pic/2/119834ba72e6420055ed54a81e66415c.png" tvg-id="domkino-premium" channelId="948983689492",Дом кино Премиум
 https://mfe.svc.ott.zala.by/hls/CH_DOMPREMIUM_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164602441.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://overlay.iptvin.ru/epg/PIC/%D0%94%D0%BE%D0%BC%20%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-id="domkino" channelId="941871155422",Дом кино
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164602441.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://overlay.iptvin.ru/epg/PIC/%D0%94%D0%BE%D0%BC%20%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-id="domkino" channelId="948983689492",Дом кино
 https://mfe.svc.ott.zala.by/hls/CH_DOMKINO_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1777457824122.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",ЕвроКино
 https://mfe.svc.ott.zala.by/hls/CH_EVROKINO_HLS/variant.m3u8
@@ -223,7 +221,7 @@ https://mfe35.svc.ott.zala.by/hls/XMC4NSRVN9_HLS/variant.m3u8
 https://mfe.svc.ott.zala.by/hls/CH_ANEKDOT_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1680208016751.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные" logo="http://overlay.iptvin.ru/epg/PIC/%D0%94%D0%B8%D0%BA%D0%B0%D1%8F%20%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0%20HD.png" channelId="3882" tvg-id="dikaya-rybalka-hd",Дикая рыбалка HD
 https://mfe.svc.ott.zala.by/hls/CH_DIKAYARIBALKA_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537186245480.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные" logo="http://overlay.iptvin.ru/epg/PIC/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="-1" tvg-id="domashny-int" channelId="941247436948",Домашний International
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537186245480.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные" logo="http://overlay.iptvin.ru/epg/PIC/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="-1" tvg-id="domashny-int" channelId="945989126328",Домашний International
 https://mfe.svc.ott.zala.by/hls/CH_DOMINT_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1752218016388.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные" logo="http://ex.iptvin.ru/pic/2/Zal-suda-220x132-tr.png" channelId="-1" tvg-id="zal-suda",Зал суда
 https://mfe.svc.ott.zala.by/hls/CH_ZALSUDA_HLS/variant.m3u8
@@ -295,12 +293,12 @@ https://mfe.svc.ott.zala.by/hls/CH_MATCHPLANETA_HLS/variant.m3u8
 https://mfe.svc.ott.zala.by/hls/CH_RUSEXTREME_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1610520200387.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://i.postimg.cc/BQtVpn0d/b79b8c3bf962462989e320ffe2373617.png" channelId="919" tvg-id="football-ru",Футбол
 https://mfe37.svc.ott.zala.by/hls/CH_FOOTBALL_HLS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт",Sport TV
-http://178.124.179.122:8080/SportTV/mpegts
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2051.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт",Матч! ТВ
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1757339286630.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Телемагазины" logo="https://img11.lostpic.net/2018/07/23/3570976b86b152197aa289d28b3adfe1.png" channelId="1656" tvg-id="luxury",Luxury HD
 https://mfe.svc.ott.zala.by/hls/CH_LUXURYHD_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1692357284918.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Эротика (18+)",Red Lips
 https://mfe.svc.ott.zala.by/hls/CH_REDLIPS_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1638259453010.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Эротика (18+)" logo="http://overlay.iptvin.ru/epg/PIC/1_0_16_78_1_70_1680000_0_0_0.png" channelId="276" tvg-id="russkaya-noch",Русская ночь
 https://mfe.svc.ott.zala.by/hls/CH_RUSSKAYANOCH_HLS/variant.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт",Sport TV
+http://178.124.179.122:8080/SportTV/mpegts
